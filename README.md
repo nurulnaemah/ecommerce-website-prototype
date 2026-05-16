@@ -21,4 +21,7 @@ Academic e-commerce website prototype developed using Figma and front-end develo
 ### Featured Product Section
 <img width="1878" height="797" alt="Screenshot 2026-05-16 210651" src="https://github.com/user-attachments/assets/9a65f9ee-e1e3-4e2d-af8e-511d750132c8" />
 
+### Shopping Cart Page
+<img width="1903" height="793" alt="Screenshot 2026-05-16 211819" src="https://github.com/user-attachments/assets/b3a0f92e-ca18-48a3-a89a-95a30cce000c" />
+
 
