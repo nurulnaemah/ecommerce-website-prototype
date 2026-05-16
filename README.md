@@ -10,3 +10,6 @@ Academic e-commerce website prototype developed using Figma and front-end develo
 - HTML
 - CSS
 - JavaScript Concepts
+## Project Screenshot
+### Homepage Design
+"C:\Users\Naemah\OneDrive\Pictures\Screenshots\Screenshot 2026-05-16 205929.png"
