@@ -24,4 +24,6 @@ Academic e-commerce website prototype developed using Figma and front-end develo
 ### Shopping Cart Page
 <img width="1903" height="793" alt="Screenshot 2026-05-16 211819" src="https://github.com/user-attachments/assets/b3a0f92e-ca18-48a3-a89a-95a30cce000c" />
 
-
+## Project Link
+Figma Prototype: 
+https://www.figma.com/make/NbTsIZ33dxmqUA1lMUoB9a/Beauty---Fragrances-Ecommerce?p=f&fullscreen=1
